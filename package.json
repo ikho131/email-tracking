@@ -4,5 +4,6 @@
   "type": "module",
   "scripts": {
     "start": "node api/pixel.js"
+    "build": "echo 'no build needed'"
   }
 }
